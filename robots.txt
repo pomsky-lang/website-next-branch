@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /
 
-Sitemap: https://pomsky-lang.org/sitemap.xml
+Sitemap: https://next.pomsky-lang.org/sitemap.xml
