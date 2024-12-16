@@ -452,7 +452,7 @@ optimize repetitions remove redundant or empty groups in character sets, dedupli
 Tooling # Tool Melody Pomsky Egg Expr. Rx Expr. CLI ✅ ✅ REPL ✅ ✅ Online playground ✅ ✅ VSCode extension ✅ ✅ IntelliJ extension ✅ JavaScript bunder Babel Vite,
 Rollup,
 ESBuild,
-Webpack Rust macro ✅ Linter Formatter Language integrations #Packages # Tool Melody Pomsky Homebrew ✅ ✅ AUR ✅ ✅ Nix ✅ ✅ GitHub release binary (Apple) ✅ ✅ GitHub release binary (Windows) ✅ GitHub release binary (Linux) ✅ Node module ✅ ✅ Python module ✅ IDE features # Feature Melody Pomsky Syntax highlighting ✅ ✅ Error highlighting ✅ Code folding ✅1 ✅1 Auto indentation ✅ ✅ Snippets ✅ ✅ Matching brackets and quotes ✅2 ✅ Keyword autocomplete ✅2 ✅ Variable autocomplete ✅3 Backreference autocomplete Character class autocomplete ✅ Unicode property autocomplete ✅ Hover tooltips Apply suggestions Share link (playground) ✅ ✅ 1 indentation based
+Webpack Rust macro ✅ Linter Formatter Packages # Tool Melody Pomsky Homebrew ✅ ✅ AUR ✅ ✅ Nix ✅ ✅ GitHub release binary (Apple) ✅ ✅ GitHub release binary (Windows) ✅ GitHub release binary (Linux) ✅ Node module ✅ ✅ Python module ✅ IDE features # Feature Melody Pomsky Syntax highlighting ✅ ✅ Error highlighting ✅ Code folding ✅1 ✅1 Auto indentation ✅ ✅ Snippets ✅ ✅ Matching brackets and quotes ✅2 ✅ Keyword autocomplete ✅2 ✅ Variable autocomplete ✅3 Backreference autocomplete Character class autocomplete ✅ Unicode property autocomplete ✅ Hover tooltips Apply suggestions Share link (playground) ✅ ✅ 1 indentation based
 2 works in playground VSCode, but not in the playground
 3 does not take scopes into account
 Found a mistake? Please fix it on GitHub.
